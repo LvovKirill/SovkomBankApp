@@ -11,7 +11,11 @@ import SwiftUI
 struct SovkomBankApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            if UserDefaults.standard.bool(forKey: "enteranceStatus"){
+                ContentView()
+//            }else{
+//                EntranceView()
+//            }
         }
     }
 }

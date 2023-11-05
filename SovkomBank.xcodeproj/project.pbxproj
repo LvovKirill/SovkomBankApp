@@ -11,6 +11,18 @@
 		ED1F9E342AEEC2460093FFD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E332AEEC2460093FFD3 /* ContentView.swift */; };
 		ED1F9E362AEEC2480093FFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED1F9E352AEEC2480093FFD3 /* Assets.xcassets */; };
 		ED1F9E392AEEC2480093FFD3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED1F9E382AEEC2480093FFD3 /* Preview Assets.xcassets */; };
+		ED1F9E442AEEC2C90093FFD3 /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E432AEEC2C90093FFD3 /* TaskView.swift */; };
+		ED1F9E462AEEC2DF0093FFD3 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E452AEEC2DF0093FFD3 /* ProfileView.swift */; };
+		ED1F9E482AEEE9EA0093FFD3 /* TaskMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E472AEEE9EA0093FFD3 /* TaskMapView.swift */; };
+		ED1F9E4B2AEF8E370093FFD3 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E4A2AEF8E370093FFD3 /* ProfileViewModel.swift */; };
+		ED1F9E4D2AEFC6900093FFD3 /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E4C2AEFC6900093FFD3 /* TaskViewModel.swift */; };
+		ED1F9E512AEFFE7D0093FFD3 /* TaskMapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E502AEFFE7D0093FFD3 /* TaskMapViewModel.swift */; };
+		ED1F9E562AF006640093FFD3 /* TaskFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E552AF006640093FFD3 /* TaskFactory.swift */; };
+		ED1F9E582AF065AC0093FFD3 /* LocalTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F9E572AF065AC0093FFD3 /* LocalTaskView.swift */; };
+		ED43A7B62AF1214100C49C80 /* EntranceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED43A7B52AF1214100C49C80 /* EntranceView.swift */; };
+		ED43A7B82AF1532100C49C80 /* UserFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED43A7B72AF1532100C49C80 /* UserFactory.swift */; };
+		ED43A7BA2AF1579700C49C80 /* EntranceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED43A7B92AF1579700C49C80 /* EntranceViewModel.swift */; };
+		ED43A7BC2AF51BAA00C49C80 /* LocalTaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED43A7BB2AF51BAA00C49C80 /* LocalTaskViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		ED1F9E332AEEC2460093FFD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ED1F9E352AEEC2480093FFD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED1F9E382AEEC2480093FFD3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED1F9E432AEEC2C90093FFD3 /* TaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		ED1F9E452AEEC2DF0093FFD3 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		ED1F9E472AEEE9EA0093FFD3 /* TaskMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskMapView.swift; sourceTree = "<group>"; };
+		ED1F9E4A2AEF8E370093FFD3 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
+		ED1F9E4C2AEFC6900093FFD3 /* TaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewModel.swift; sourceTree = "<group>"; };
+		ED1F9E502AEFFE7D0093FFD3 /* TaskMapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskMapViewModel.swift; sourceTree = "<group>"; };
+		ED1F9E552AF006640093FFD3 /* TaskFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFactory.swift; sourceTree = "<group>"; };
+		ED1F9E572AF065AC0093FFD3 /* LocalTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalTaskView.swift; sourceTree = "<group>"; };
+		ED43A7B52AF1214100C49C80 /* EntranceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntranceView.swift; sourceTree = "<group>"; };
+		ED43A7B72AF1532100C49C80 /* UserFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFactory.swift; sourceTree = "<group>"; };
+		ED43A7B92AF1579700C49C80 /* EntranceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntranceViewModel.swift; sourceTree = "<group>"; };
+		ED43A7BB2AF51BAA00C49C80 /* LocalTaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalTaskViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +75,9 @@
 		ED1F9E302AEEC2460093FFD3 /* SovkomBank */ = {
 			isa = PBXGroup;
 			children = (
+				ED1F9E522AF005CA0093FFD3 /* Model */,
+				ED1F9E492AEF8DD60093FFD3 /* ViewModels */,
+				ED1F9E402AEEC2820093FFD3 /* Views */,
 				ED1F9E312AEEC2460093FFD3 /* SovkomBankApp.swift */,
 				ED1F9E332AEEC2460093FFD3 /* ContentView.swift */,
 				ED1F9E352AEEC2480093FFD3 /* Assets.xcassets */,
@@ -65,6 +92,39 @@
 				ED1F9E382AEEC2480093FFD3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ED1F9E402AEEC2820093FFD3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED1F9E432AEEC2C90093FFD3 /* TaskView.swift */,
+				ED1F9E452AEEC2DF0093FFD3 /* ProfileView.swift */,
+				ED1F9E472AEEE9EA0093FFD3 /* TaskMapView.swift */,
+				ED1F9E572AF065AC0093FFD3 /* LocalTaskView.swift */,
+				ED43A7B52AF1214100C49C80 /* EntranceView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED1F9E492AEF8DD60093FFD3 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				ED1F9E4A2AEF8E370093FFD3 /* ProfileViewModel.swift */,
+				ED1F9E4C2AEFC6900093FFD3 /* TaskViewModel.swift */,
+				ED1F9E502AEFFE7D0093FFD3 /* TaskMapViewModel.swift */,
+				ED43A7B92AF1579700C49C80 /* EntranceViewModel.swift */,
+				ED43A7BB2AF51BAA00C49C80 /* LocalTaskViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		ED1F9E522AF005CA0093FFD3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ED1F9E552AF006640093FFD3 /* TaskFactory.swift */,
+				ED43A7B72AF1532100C49C80 /* UserFactory.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +197,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED43A7B62AF1214100C49C80 /* EntranceView.swift in Sources */,
+				ED1F9E4B2AEF8E370093FFD3 /* ProfileViewModel.swift in Sources */,
+				ED1F9E4D2AEFC6900093FFD3 /* TaskViewModel.swift in Sources */,
+				ED1F9E482AEEE9EA0093FFD3 /* TaskMapView.swift in Sources */,
+				ED1F9E562AF006640093FFD3 /* TaskFactory.swift in Sources */,
 				ED1F9E342AEEC2460093FFD3 /* ContentView.swift in Sources */,
+				ED1F9E512AEFFE7D0093FFD3 /* TaskMapViewModel.swift in Sources */,
+				ED1F9E582AF065AC0093FFD3 /* LocalTaskView.swift in Sources */,
+				ED43A7B82AF1532100C49C80 /* UserFactory.swift in Sources */,
+				ED1F9E462AEEC2DF0093FFD3 /* ProfileView.swift in Sources */,
 				ED1F9E322AEEC2460093FFD3 /* SovkomBankApp.swift in Sources */,
+				ED43A7BC2AF51BAA00C49C80 /* LocalTaskViewModel.swift in Sources */,
+				ED43A7BA2AF1579700C49C80 /* EntranceViewModel.swift in Sources */,
+				ED1F9E442AEEC2C90093FFD3 /* TaskView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
